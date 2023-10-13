@@ -16,4 +16,9 @@
 
 ## Step 2: Create a project template
 1. Create a template.py file
-2. 
+2. run the template file
+
+## Step 3: Push all the files in the github repo
+1. `git add .`
+2. `git commit -m "folder structure"`
+3. `git push origin main`
